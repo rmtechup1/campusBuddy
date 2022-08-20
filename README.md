@@ -56,15 +56,15 @@ List of supported Backend functionality (the overall vision!):
     > Checkin books
     > Approve checkin/checkout of books
     > Contribute a book for library
-    > Accept contributions
-    > Request purchase of specific books
-    > Retrieve list of requested books
-    > Update list of requested books
-    > Create a fine
-    > Retrieve fines
-    > Delete fines
-    > Pay fines
-    > Post a book review
+        > Accept contributions
+        > Request purchase of specific books
+        > Retrieve list of requested books
+        > Update list of requested books
+        > Create a fine
+        > Retrieve fines
+        > Delete fines
+        > Pay fines
+        > Post a book review
 > Lost & Found options:
     > Add lost items
     > Update status of lost items
@@ -85,9 +85,9 @@ List of supported Backend functionality (the overall vision!):
 > Administration department options:
     > Request a certificate (Bonafides..etc)
     > Approve & generate requested certificate
-    > Retrieve all open requests from user
-    > Retrieve all open requests by category
-    > Bulk update certificate requests
+        > Retrieve all open requests from user
+        > Retrieve all open requests by category
+        > Bulk update certificate requests
     > Request a leave
     > Approve a leave
     > Delete a certificate request
